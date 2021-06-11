@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "5IIJWrvDZI65rGFcgtCbU9o2uoOtg0yG1JMrkW46/O9Ldvs8h0sHimihtUmaHA/NzrZMN1Ke1PAvtkhMUzE0YA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KEVIN\\source\\repos\\University\\University.App\\University.App.iOS\\University.App.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KEVIN\\.nuget\\packages\\xam.plugin.connectivity\\3.2.0\\xam.plugin.connectivity.3.2.0.nupkg.sha512",
+    "C:\\Users\\KEVIN\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
+    "C:\\Users\\KEVIN\\.nuget\\packages\\xam.plugins.settings\\3.1.1\\xam.plugins.settings.3.1.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
